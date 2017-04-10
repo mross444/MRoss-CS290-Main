@@ -1,0 +1,8 @@
+Github URL:
+
+https://github.com/mross444/MRoss-CS290-Main
+
+
+Node.js access:
+
+http://flip2.engr.oregonstate.edu:49626
